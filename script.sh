@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 cat /proc/cpuinfo | grep flag | head -1
 cd /home/grid/testbed/tb191/lab/vec_samples/src 
 ml icc
